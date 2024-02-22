@@ -1,4 +1,4 @@
-# int_asks
+# int_tasks
 This repo contains the following files:
 * task1.ipynb - contains the solution to task1
 * task2.py - a script that generates an image as a solution for task 2. In order to run the script, make sure you have `torch` and `opencv` installed. 
